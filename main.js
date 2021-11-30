@@ -36,14 +36,14 @@ function my_keydown(e)
 }
 
 function aplhabetkey()
-{ img_image="otherkey.png";
+{ img_image="Alpkey.png";
 add();
 	//upload respective image with the message. 
 
 }
 function numberkey()
 {
-	img_image="Alpkey.png";
+	img_image="numkey.png";
 	add();	
 }
 function arrowkey()
